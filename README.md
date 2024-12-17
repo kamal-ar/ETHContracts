@@ -24,5 +24,7 @@ webapp/
         contracts.ts - Needs contract addresses and ABIs (JSONs)
 
  These folders have codes for the pages/components
+ 
   pages/
+ 
   components/
